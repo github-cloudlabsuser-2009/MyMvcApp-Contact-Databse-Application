@@ -54,4 +54,4 @@ jobs:
           app-name: 'FoTube'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82E9AF0756CC4815990917BA423B1E28 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A9A85A14B5B45A085F19D4229BFBF3A }}
