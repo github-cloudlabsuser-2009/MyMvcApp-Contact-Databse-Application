@@ -54,4 +54,4 @@ jobs:
           app-name: 'MysoreMudassir21'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C3E1FBBD4FB41CFA5749837E29F7361 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_25449A7C764E43CDAACF65BACE9C0611 }}
